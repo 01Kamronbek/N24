@@ -1,0 +1,480 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    max-width: 100%;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.rectangle-22 {
+    max-width: 1440px;
+    height: 105px;
+    background-color: rgba(246, 246, 246, 1);
+}
+
+.group-34 {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1315px;
+    height: 75px;
+    padding-top: 30px;
+    padding-left: 115px;
+}
+
+.logo-rate {
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+
+.rectangle-6 {
+    width: 250px;
+    height: 45px;
+    border: 0;
+    border-radius: 60px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.btn {
+    width: 89px;
+    height: 45px;
+    border: 0;
+    border-radius: 10px;
+    background-color: rgba(114, 150, 236, 1);
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+.btn-link {
+    width: 49px;
+    height: 19px;
+    color: rgba(255, 255, 255, 1);
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.frame-28 {
+    margin-top: 30px;
+    margin-left: 118px;
+    max-width: 1200px;
+    height: 21px;
+    justify-content: space-between;
+}
+
+.frame-28-links {
+    display: flex;
+    gap: 34px;
+}
+
+.frame-28-link {
+    color: rgba(127, 127, 127, 1);
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.vector-1 {
+    max-width: 1200px;
+    height: 2px;
+    border: 0;
+    background-color: rgba(209, 209, 209, 1);
+    margin-top: 20px;
+    margin-left: 115px;
+}
+
+.optimize-img {
+    margin-top: 40px;
+    margin-left: 115px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    height: 785px;
+    margin-top: 50px;
+    margin-left: 115px;
+}
+
+.card {
+    width: 393px;
+    height: 382px;
+    border-radius: 15px;
+    background-color: rgba(246, 246, 246, 1);
+    margin-right: 10.5px;
+}
+
+.card:nth-child(3) {
+    margin-right: 0;
+}
+
+.card:last-child {
+    margin-right: 0;
+}
+
+.title {
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0%; 
+    padding-top: 22px;
+    padding-left: 25px;
+}
+
+.text {
+    font-family: "Rubik";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0%;
+    color: rgba(74, 75, 76, 1);
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+.card-img {
+    width: 370px;
+    height: 180px;
+    padding-top: 15px;
+    padding-left: 25px;
+}
+
+.card-icon {
+    width: 45px;
+    height: 35px;
+    padding-top: 5px;
+    padding-left: 25px;
+}
+
+.copyright {
+    margin-top: -24px;
+    margin-left: 55px;
+    font-family: "Rubik";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.group-35 {
+    max-width: 1050px;
+    height: 100px;
+    margin-top: 60px;
+    margin-left: 190px;
+    border-radius: 15px;
+}
+
+.group-35-box {
+    width: 404px;
+    height: 52px;
+    margin-top: -78px;
+    margin-left: 220px;
+}
+
+.group-35-text {
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0%;    
+}
+
+.group-btn {
+    width: 149px;
+    height: 50px;
+    border: 0;
+    border-radius: 10px;
+    background-color: rgba(247, 139, 59, 1);
+    cursor: pointer;
+}
+
+.group-link {
+    color:rgba(255, 255, 255, 1);
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.frame-46 {
+    margin-top: -50px;
+    margin-left: 1030px;
+}
+
+.caption {
+    display: inline-block;
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-top: 100px;
+    margin-left: 115px;    
+}
+
+.news-card {
+    width: 797px;
+    height: 205px;
+    border-radius: 10px;
+    background-color: rgba(246, 246, 246, 1);
+    margin-top: 15px;
+    margin-left: 115px;
+}
+
+.news-card-1 {
+    width: 797px;
+    height: 205px;
+    border-radius: 10px;
+    background-color: rgba(246, 246, 246, 1);
+    margin-top: 10px;
+    margin-left: 115px;
+}
+
+.news-card-img {
+    width: 230px;
+    height: 187px;
+    padding-top: 22px;
+    padding-left: 20px;
+}
+
+.news-card-box {
+    width: 535px;
+    height: 128px;
+    margin-top: -169px;
+    margin-left: 245px;
+}
+
+.news-card-heading {
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0%;
+}
+
+.news-card-text {
+    font-family: "Rubik";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0%;
+    color: rgba(74, 75, 76, 1);
+    padding-top: 10px;
+}
+
+.news-copyright {
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+    padding-left: 245px;
+}
+
+.news-text {
+    font-family: "Rubik";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: rgba(94, 95, 97, 1);
+    margin-left: 10px;   
+}
+
+.rectangle-90 {
+    width: 393px;
+    height: 495px;
+    border-radius: 15px;
+    background-color: rgba(246, 246, 246, 1);
+    margin-top: -850px;
+    margin-left: 925px;
+}
+
+.rectangle-90-title {
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    padding-top: 25px;
+    padding-left: 15px;
+    margin: 0;
+}
+
+.frame-39 {
+    width: 311px;
+    height: 90px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.rectangle-90-heading {
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0%;
+}
+
+.rectangle-90-content {
+    font-family: "Rubik";
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: rgba(94, 95, 97, 1);
+    padding-top: 10px;
+}
+
+.vector-2 {
+    width: 359px;
+    height: 1px;
+    border: 0;
+    background-color: rgba(210, 210, 210, 1);
+    margin-top: 18px;
+    margin-left: 15px;
+}
+
+.frame-40 {
+    width: 376px;
+    height: 89px;
+    padding-top: 18px;
+    padding-left: 15px;
+}
+
+.image-6 {
+    width: 393px;
+    height: 351px;
+    margin-top: 10px;
+    margin-left: 925px;
+}
+
+.btn-more {
+    width: 796px;
+    height: 53px;
+    border: 0;
+    border-radius: 10px;
+    background-color: rgba(234, 234, 234, 1);
+    margin-top: 20px;
+    margin-left: 115px;
+    cursor: pointer;
+}
+
+.btn-more-link {
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: rgba(0, 0, 0, 1);
+}
+
+.footer {
+    max-width: 1440px;
+    height: 356px;
+    margin-top: 100px;
+    background-color: rgba(114, 151, 239, 1);
+    color: rgba(255, 255, 255, 1);
+}
+
+.footer-subtitle-link {
+    display: inline-block;
+    color: rgba(255, 255, 255, 1);
+}
+
+.footer-subtitle {
+    display: inline-block;
+    font-family: "Rubik";
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin: 0;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+
+.footer-container {
+    width: 429px;
+    height: 112px;
+    padding-top: 20px;
+    padding-left: 200px;
+    font-family: "Rubik";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+    letter-spacing: 0%;
+}
+
+.frame-43 {
+    display: inline-block;
+    position: absolute;
+    width: 867px;
+    height: 136px;
+    margin-top: -90px;
+    margin-left: 650px;
+}
+
+.footer-link {
+    width: 180px;
+    height: 34px;
+}
+
+.footer-links {
+    display: inline-block;
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;    
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 18px;
+}
+
+.frame-44 {
+    position: absolute;
+    width: 224px;
+    height: 97px;
+    margin-top: -90px;
+    margin-left: 900px;
+}
+
+.vector-3 {
+    width: 998px;
+    height: 1px;
+    border: 0;
+    background-color: rgba(206, 206, 206, 1);
+    margin-left: 200px;
+    margin-top: 70px;
+}
+
+.footer-title {
+    font-family: "Rubik";
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: 0%;
+    margin-top: 25px;
+    margin-left: 200px;
+}
+
+.socials {
+    width: 160px;
+    height: 25px;
+    margin-top: -45px;
+    margin-left: 1040px;
+}
+
+.footer-social {
+    display: flex;
+    gap: 20px;
+}
